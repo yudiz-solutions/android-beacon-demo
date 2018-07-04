@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChoosePhoto">
+        <attr name="text1" format="string" />
+        <attr name="text1_color" format="color" />
+        <attr name="text2" format="string" />
+        <attr name="text2_color" format="color" />
+
+    </declare-styleable>
+</resources>

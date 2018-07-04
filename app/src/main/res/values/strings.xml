@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beacon Demo</string>
+    <string name="scan_beacon">Start scanning</string>
+    <string name="stop_beacon">Stop scanning</string>
+    <string name="reset_list">reset list</string>
+    <string name="uuid">UUID</string>
+    <string name="minor">Minor</string>
+    <string name="major">Major</string>
+    <string name="mac">MAC</string>
+    <string name="rssi">RSSI</string>
+    <string name="tx">TX</string>
+    <string name="unique_key">Unique Key</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="from_lib">Choose from library</string>
+</resources>
